@@ -1,10 +1,10 @@
 ## About me
-Just a dude that is very passionate about Physics. Currently am learning computational physics on C++ with Qt framework.
+Just a dude that is very passionate about Physics. Currently am learning computational physics on C++ with Qt framework using a textbook by Landau (2015)[^1].
 <p align="center">
 <img width="400" height="200" src=https://github-readme-stats.vercel.app/api/top-langs/?username=naufalD&layout=compact&theme=vision-friendly-dark>
 </p>
 
-
+[^1]: Landau, R. H. (2015). Computational physics problem solving with python. John Wiley & Sons, Incorporated
 
 
 <!--
