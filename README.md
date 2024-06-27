@@ -1,6 +1,9 @@
-## Hi there 👋
+## About me
+Just a dude that is very interested in Physics. Currently am learning computational physics on C++ with Qt framework.
+<p align="center">
+<img width="400" height="200" src=https://github-readme-stats.vercel.app/api/top-langs/?username=naufalD&layout=compact&theme=vision-friendly-dark>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalD)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
